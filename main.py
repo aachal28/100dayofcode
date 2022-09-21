@@ -1,6 +1,6 @@
 print('aachal')
 print('21th september 2022')
-print('I am signing up for replits 100 days od python challenge!')
+print('I am signing up for replits 100 days of python challenge!')
 print(
     'I will make sure to spend some time every day coding along, for a minimum 10 minutes a day.'
 )
