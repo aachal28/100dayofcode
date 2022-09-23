@@ -9,4 +9,5 @@
 |------|-----------------|--------------------|---------------------|
 |Day 1|Sept 21, 2022| Hello World Program | [ReplitDay 1/100](https://replit.com/@aachal28/day-1-of-100days#main.py)|
 |Day 2|Sept 22, 2022| Input & Variables | [ReplitDay 2/100](https://replit.com/@aachal28/day-2-of-100days#main.py)|
+|Day 3|Sept 23, 2022| Concatenate | [ReplitDay 3/100](https://replit.com/@aachal28/day-3-of-100days#main.py)|
 
