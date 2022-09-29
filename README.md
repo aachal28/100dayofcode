@@ -15,4 +15,4 @@
 |Day 6|Sept 26, 2022| Elif command | [ReplitDay 6/100](https://replit.com/@aachal28/day6100-days#main.py)|
 |Day 7|Sept 27, 2022| Nesting | [ReplitDay 7/100](https://replit.com/@aachal28/day-7100-days#main.py)|
 |Day 8|Sept 28, 2022| Day 8 Challenge | [ReplitDay 8/100](https://replit.com/@aachal28/day-8-100-days#main.py)|
-|Day 9|Sept 29, 2022| Day 9 Challenge | [ReplitDay 9/100](https://replit.com/@aachal28/day-8-100-days#main.py)|
+|Day 9|Sept 29, 2022| Casting | [ReplitDay 9/100](https://replit.com/@aachal28/day-9-100-days#main.py)|
